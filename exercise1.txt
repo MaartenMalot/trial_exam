@@ -3,4 +3,4 @@ touch exercise1.txt
 gedit excercise1.txt
 git add exercise1.txt
 git commit
-
+git push
